@@ -1,4 +1,4 @@
-1.you can run with  `mvn spring-boot:run`
+1. you can run with  `mvn spring-boot:run`
 
 2. if you want to test it ,you can 
 
